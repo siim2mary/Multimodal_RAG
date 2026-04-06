@@ -1,6 +1,22 @@
-fastapi
+# FastAPI and Server
+fastapi[standard]
 uvicorn
 python-multipart
-langchain-google-genai
-langgraph
 python-dotenv
+
+# LangChain and Groq
+langchain-groq
+langchain-core
+langchain-community
+
+# Vector Database and Embeddings
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+
+# Document Processing
+pypdf
+
+# Utilities
+tenacity
+pillow
